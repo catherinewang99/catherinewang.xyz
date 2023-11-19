@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [catherine.wang@bcm.edu](mailto:catherine.wang@bcm.edu)
 
 * Phone: [+91-123123](tel:+91-123123)
 
